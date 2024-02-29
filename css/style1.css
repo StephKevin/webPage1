@@ -29,3 +29,6 @@ body{
         color: white;
     }
 }
+.anatiny li:hover{
+    color: blue;
+}

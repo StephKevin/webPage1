@@ -1,0 +1,167 @@
+
+header{
+    background: url(../images/call-to-action-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    padding-top: 100px !important;
+    color: white;
+    margin-top: 50px;
+}
+.loko{
+    background: #007d7d;
+    border-style:none ;
+}
+.trans{
+    background: #0000;
+    border-color: white;
+}
+header div div div button{
+    width: 100px;
+}
+.transi{
+    background: #00000069;
+}
+.afa{
+    margin-top: 150px;
+}
+.loka{
+    color: #007d7d;
+}
+.back{
+    padding-top: 150px !important;
+}
+.sec{
+    padding: 10px;
+}
+.one{
+    background: url(../images/team-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.two{
+    background: url(../images/team-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.three{
+    background: url(../images/team-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.soratra{
+    background: #0000004f;
+    padding-left: 5px;
+}
+.fotsy{
+    color: white;
+}
+.but{
+    width: 100px;
+}
+.misy{
+    background: url(../images/card3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+label{
+    color: #007d7d;
+}
+form{
+    color: black;
+}
+form div input{
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+.mavo{
+    color: black;
+    background: #007d7d;
+    padding: 42.7px;
+}
+.mavo h3{
+    color: white;
+}
+.wi{
+    width: 100px;
+    color: white;
+}
+.wi h1{color: black !important;}
+.vod{
+    width: 250px;
+    border-style: none;
+    background: white;
+}
+.bol{
+    font-weight: bolder;
+}
+.mila{
+    margin-top: 20px;
+
+}
+.sec2{
+    padding: 50px;
+    padding-top: 10px !important;
+}
+.sec3{
+    background: url(../images/card3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    
+}
+.sec31{
+    background: #007d7da3;
+    padding: 50px;
+}
+.sec4{
+    background: url(../images/Annotation22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+.anivo{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    padding-top: 5px !important;
+    padding-left: 10px !important;
+}
+.soratra1{
+    background: #007d7d;
+    padding-left: 5px;
+}
+.sec6{
+    background: black;
+    color: white;
+}
+.amby{
+    background: black;
+    margin-top: 30px;
+}
+footer{
+    background: url(../images/call-to-action-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mora{
+    background: #000000e5;
+    color: white;
+    padding: 20px;
+}
+.vaky{
+    margin-top: 10px;
+}
+.in{
+    color: black;
+    text-align: center;
+    height: 30px;
+}
+.inn{
+    background: #007d7d;
+    border-style: none !important;
+    border-radius: 3px !important;
+}
